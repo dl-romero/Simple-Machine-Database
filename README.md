@@ -1,2 +1,2 @@
-# Machine-Database
-MDB
+# Simple-Machine-Database
+SMDB
